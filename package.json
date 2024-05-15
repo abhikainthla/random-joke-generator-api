@@ -1,0 +1,20 @@
+{
+  "name": "random-joke-generator-api",
+  "version": "1.0.0",
+  "description": "This API is use to generate random jokes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes",
+    "random-jokes",
+    "API"
+  ],
+  "author": "Abhishek Kainthla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
